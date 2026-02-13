@@ -1,0 +1,8 @@
+R_color_mode
+R_color_max
+R_texture_correlation
+G_color_max
+B_color_mode
+B_texture_correlation
+Gray_color_mode
+Gray_color_max
